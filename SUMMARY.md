@@ -1,4 +1,5 @@
 # Table of contents
 
 * [Peperium docs](README.md)
-* [Page 1](page-1.md)
+* [History](history.md)
+* [Card info](card-info.md)
