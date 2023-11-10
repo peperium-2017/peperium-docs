@@ -1,3 +1,3 @@
 # Table of contents
 
-* [README](README.md)
+* [Peperium docs](README.md)
